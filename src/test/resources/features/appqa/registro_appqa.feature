@@ -87,7 +87,7 @@ Característica: Validación de módulo registro
     Ejemplos:
       | repeatPassword  | mensaje                            |
       | 123456@wq       | Password does not have the format  |
-      |                 | Password is required               |
+      |                 | Repeat password is required        |
 
   Escenario: Verificar alertas en el campo Email sin formato
 
