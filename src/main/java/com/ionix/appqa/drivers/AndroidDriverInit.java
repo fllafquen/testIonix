@@ -16,7 +16,7 @@ public class AndroidDriverInit {
         DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
         desiredCapabilities.setCapability("platformName", "Android");
         desiredCapabilities.setCapability("appPackage", "com.appqa");
-        desiredCapabilities.setCapability("deviceName", "R5CT42RB0GZ");
+        desiredCapabilities.setCapability("deviceName", "ingresar_id_del_dispositivo");
         desiredCapabilities.setCapability("platformVersion", "12");
         desiredCapabilities.setCapability("appActivity", "com.appqa.MainActivity");
         //desiredCapabilities.setCapability("automationName", "UIAutomator2");
