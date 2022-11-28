@@ -1,6 +1,6 @@
-# appium-serenity-bdd-simpleapp
+# appium-serenity-bdd-ionix
 Mobile Automation Testing using Appium Serenity BDD 
 
-Pasos para desplegar pruebas
-1.- Configurar capabilities de dispositivo en clase AndroidDriverInit
-2.- Ejecutar pruebas desde clase SerenityRunner
+##Pasos para desplegar pruebas
+* Configurar capabilities de dispositivo en clase AndroidDriverInit
+* Ejecutar pruebas desde clase SerenityRunner
